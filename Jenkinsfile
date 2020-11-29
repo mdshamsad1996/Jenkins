@@ -6,7 +6,7 @@ pipeline {
                 sh 'python --version'
             }
         }
-        stage('Stage 2 - Run hello world') {
+        stage('Stage 2 - test hello world') {
             steps {
                 sh 'python -m unittest'
             }
