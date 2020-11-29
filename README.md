@@ -35,7 +35,7 @@ Please make sure to install Docker pipeline plugin in Jenkins
 
 References:
 
-    https://medium.com/@mohan08p/install-and-configure-jenkins-on-amazon-ami-8617f0816444
+   https://medium.com/@mohan08p/install-and-configure-jenkins-on-amazon-ami-8617f0816444
  
    http://mirrors.jenkins-ci.org/redhat/
  
